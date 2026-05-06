@@ -1,0 +1,17 @@
+{
+  "repo": "meridian-trade-auction-hub",
+  "thresholds": {
+    "signal": 3,
+    "slack": 1,
+    "confidence": 2,
+    "drag": 2,
+    "ship": 197,
+    "watch": 125
+  },
+  "terms": [
+    "spread pressure",
+    "fill risk",
+    "portfolio drift",
+    "quote width"
+  ]
+}
